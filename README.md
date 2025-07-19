@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mohamed Ehab 👋</h1>
 <p align="center">
-  <strong>Data Scientist | AI Researcher | Machine Learning Specialist</strong>
+  <strong>Data Scientist | AI Researcher | Computer Vision Specialist</strong>
 </p>
 <p align="center">
-  Cairo, Egypt • <a href="mailto:s-mohamed.ehab@zewailcity.edu.eg">Email</a> • 
+  Cairo, Egypt • <a href="mailto:s-mohamed.ehab@zewailcity.edu.eg">s-mohamed.ehab@zewailcity.edu.eg</a> • 
   <a href="https://linkedin.com/in/mohamed-ehab-0901a626b" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/mohamed1232005" target="_blank">GitHub</a>
 </p>
